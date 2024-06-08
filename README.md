@@ -19,7 +19,7 @@ A simple CLI tools to empty crypto wallet & send to your other wallet, Build wit
 Clone the project
 
 ```bash
-  git clone https://github.com/hanzvibes/tx-bot
+  git clone https://github.com/rmndkyl/tx-bot
 ```
 
 Go to the project directory
